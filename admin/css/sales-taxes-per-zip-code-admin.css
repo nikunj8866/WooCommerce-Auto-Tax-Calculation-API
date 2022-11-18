@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .tax-postalcode-table {
+    width: 100%;
+ }
+ .tax-postalcode-table tr{
+    text-align: left;
+ }
+ .tax-postalcode-table td a {
+    text-decoration: none;
+ }
+ .update-postalcode-rate span.processing {
+    animation: rotation 2s infinite linear;
+ }
+ .dataTables_length select {
+   min-width: 50px;
+}
